@@ -19,10 +19,10 @@ Now you can access aaPanel at http://youripaddress:8886/⁠
 
 from your host system.
 
-Default installation entry:aapanel
-Default username:aapanel
-Default password:aapanel123
-Default root password:aapanel123
+- Default installation entry:aapanel
+- Default username:aapanel
+- Default password:aapanel123
+- Default root password:aapanel123
 
 Port usage analysis
 
